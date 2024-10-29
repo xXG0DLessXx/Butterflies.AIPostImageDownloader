@@ -1,5 +1,5 @@
 # Butterflies.AIPostImageDownloader
-Repo for a very basic and simple script to download post images from profiles made on butterfiles.ai
+Repo for a very basic and simple script to download post images from profiles made on https://butterflies.ai
 
 # How to use
 - Clone the repo or download the script.
@@ -8,6 +8,5 @@ Repo for a very basic and simple script to download post images from profiles ma
 - Run the script with the html file path as the parameter for example:
 ```
 ./download_post_img.sh imagen_test.html
-
 ```
 - The files will start downloading in the folder you executed the script in. There is a test html in the repo if you wish to try it out.
